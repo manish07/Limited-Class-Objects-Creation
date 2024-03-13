@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/bin/Debug/net7.0/LimitedObjectsCreation
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/bin/Debug/net7.0/LimitedObjectsCreation.deps.json
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/bin/Debug/net7.0/LimitedObjectsCreation.runtimeconfig.json
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/bin/Debug/net7.0/LimitedObjectsCreation.dll
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/bin/Debug/net7.0/LimitedObjectsCreation.pdb
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.AssemblyInfo.cs
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.dll
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/refint/LimitedObjectsCreation.dll
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.pdb
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/LimitedObjectsCreation.genruntimeconfig.cache
+/Users/manishkumar/Downloads/Practice/LimitedObjectsCreation/obj/Debug/net7.0/ref/LimitedObjectsCreation.dll
